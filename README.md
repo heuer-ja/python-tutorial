@@ -1,2 +1,2 @@
 # python-tutorial
-simple python tutorial with different libraries
+simple python tutorial with different libraries.
