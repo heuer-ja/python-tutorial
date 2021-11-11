@@ -79,7 +79,7 @@ Package-manager for installing python **libraries**.
 ## Libraries
 - **numpy** - efficient arrays + operations
 - **matplotlib** - vizualisations, customizable graphs, exports
-- **scipy** - scienctific functions for math 
+- **scipy** - scienctific functions for maths. divided into subpages, each dealing with another topic (stats, lina, io)
 - **pandas** - effiecent datastructures for .csv-files and multidimensional data
 - **tensorflow** - machine learning
 - **huggingface** - nlp 
