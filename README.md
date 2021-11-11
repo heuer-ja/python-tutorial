@@ -1,6 +1,9 @@
 
+
+
 ## Table of Contents
-1.  [Interpreter](#Interpreter)
+1. [About](#About)
+1. [Interpreter](#Interpreter)
 1. [Pip](#Pip)
 	 	- [Commands](#Commands)
 1.  [Anaconda](#Anaconda)
@@ -15,9 +18,16 @@
 	- [Spyder](#Spyder)
 	- [Jupyter Notebook](#Jupyter_Notebook)
 	- [Others](#Others)
-1.  [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
   
+  
+## About Python  
+Python is a general purpose programming language. 
+
+### Usecases
+- automation & scripting
+- data science & machine learning
+- backend (webdev.) 
+
 
 ## Interpreter
 Interpreters for programming language *Python*.
