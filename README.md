@@ -5,7 +5,7 @@
 1. [About](#About)
 1. [Interpreter](#Interpreter)
 1. [Pip](#Pip)
-	 	- [Commands](#Commands)
+	- [Commands](#Commands)
 1.  [Anaconda](#Anaconda)
 	- [Motivation](#Motivation)
 	- [Miniconda vs. Conda](#Miniconda_vs._Conda)
