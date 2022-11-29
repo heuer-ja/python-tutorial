@@ -73,6 +73,19 @@ Package-manager for installing python **libraries**.
 -  **install** package *example* in env: `conda install example` or `pip install example`
 -  **export** current env.: `conda env export --name NAME_OF_ENV > NAME_OF_ENV.yml`
 
+### Windows 11: Connect VS Code to Anaconda Jupyter Kernels
+2022 Nov 29
+Problem: It may happen that VS Code connects **only** to Jupyter Kernel installed on your real machine. Accordingly, it is not possible to choose any other Anaconda Kernels even though they are shown under Command Palette (CTRL + SHIFT + P) "Select: Python Interpreter".
+Solution: Open Command Palette (CTRL + SHIFT + P) and type 'Jupyter: Filter Kernels'. Now, two things are possible to do: (A) uncheck the check box for the native Interpreter (that worked for me), or (B) insert following code
+
+<code>
+"jupyter.kernels.filter": [
+      {
+        "path": "/bin/python3"
+      }
+    ]
+<\code>
+
 ### Sources
 - https://www.youtube.com/watch?v=1VVCd0eSkYc&t=2s
   
