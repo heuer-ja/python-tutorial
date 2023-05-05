@@ -94,7 +94,8 @@ Solution: Open Command Palette (CTRL + SHIFT + P) and type 'Jupyter: Filter Kern
 - **matplotlib** - vizualisations, customizable graphs, exports
 - **scipy** - scienctific functions for maths. divided into subpages, each dealing with another topic (stats, lina, io)
 - **pandas** - effiecent datastructures for .csv-files and multidimensional data
-- **tensorflow** - machine learning
+- **sklearn** - machine learning
+- **pytorch** -  deep learning
 - **huggingface** - nlp 
 
 ## Packages
@@ -121,11 +122,8 @@ Works like a compiler and checks code for correct typing.
 - many plugins
 - autocompletion
 
-  
-
 ### Spyder
 light-weight editor for data science, but no scalable extensions
-  
  
 ### Jupyter Notebook
 - interactive python text editor with *major vizualisation characteristic*.
@@ -133,23 +131,13 @@ light-weight editor for data science, but no scalable extensions
 - run independent python cells
 - vizualisation for graphs, datastructures, prints, ..
 
-  
-
 **Start Jupyter Notebook**
-
 - from terminal: `jupyter notebook`
 
-  
-
 **Shortcuts**
-
 - tab completion: `Tab`
-
 - run cell: `CTRL` + `ENTER`
-
 - new cell: `ESC` + `ENTER`
-
-  
   
 ### Others
 not appropriate but still o.k. alternatives are better
